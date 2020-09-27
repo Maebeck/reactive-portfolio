@@ -1,0 +1,33 @@
+.background {      
+    background-color: darkgreen;
+}
+
+.navbar {
+    margin-bottom: 40px;
+
+}
+
+.port-cont {
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    max-width: 350px;
+}
+
+h1 {
+
+}
+
+.masonry {
+    display: flex;
+    flex-wrap: wrap; //default
+    align-items: center;
+    justify-content: start;
+    column-gap: 16px;
+    row-gap: 16px;
+    
+}
