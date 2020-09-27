@@ -10,16 +10,18 @@
 .port-cont {
     margin-left: 25px;
     background-color: white;
-}
 
+}
+h1 {
+    width: 100%;
+    text-align: left;
+    margin: 24px 0; 
+    border-bottom: 1px solid grey;
+}
 img {
     width: 100%;
     height: auto;
     max-width: 350px;
-}
-
-h1 {
-
 }
 
 .masonry {
@@ -30,4 +32,14 @@ h1 {
     column-gap: 16px;
     row-gap: 16px;
     
+}
+
+.section-container {
+    width: 100%;
+    max-width: 768px;
+    margin: 0 auto;
+    margin-left: 25px;
+    background-color: white;
+    padding: 24px; 
+
 }
