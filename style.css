@@ -63,3 +63,27 @@ max-width: 200px;
 .about-me .description {
 
 }
+
+.sidebar {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eee;
+    width: 100%;
+    max-width: 270px;
+    padding: 30px;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #ddd;
+    background: #fff;
+    margin-top: 15px;
+}
+.social, h3, h2 {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+.social-head {
+    border-bottom: 3px solid #eee;
+}
